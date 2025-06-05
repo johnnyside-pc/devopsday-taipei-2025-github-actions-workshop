@@ -1,5 +1,5 @@
 def test_hello():
-  print('hello !1')
+  print('hello !T')
 
 def test_answer():
   assert int(5) == 5
